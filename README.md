@@ -119,4 +119,11 @@ sed -i.ORIGINAL 's/fly/grasshopper/g' sedtest.txt
 
 Here, s is for substitute mode, fly is the word to be replaced and grasshopper is the word replaced.
 
+## Extra Information
+
+To open the .bashrc file on your ubuntu machine, type in the command:
+
+```bash
+sudo vim ~/.bashrc
+```
 
